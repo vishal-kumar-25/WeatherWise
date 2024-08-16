@@ -1,5 +1,5 @@
-# React + Vite
-#WeatherWise - Finding the weather of your city
+# WeatherWise
+# Finding the weather of your city
 ![Screenshot 2024-08-16 171400](https://github.com/user-attachments/assets/633e9ff0-137f-49b9-a26c-adebf2ac4200)
 
 
